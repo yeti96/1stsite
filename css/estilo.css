@@ -38,7 +38,6 @@ ul{
 	text-decoration: none;
 }
 
-
 div.articulo{
 	border-bottom: double white 3px;
 
@@ -68,15 +67,10 @@ a{
 	margin-right:40px;
 }
 
-
 a:hover{
 	color: lightblue;
 	font-size: 26px;
 
-}
-
-a:action{
-	
 }
 
 table{
@@ -118,13 +112,11 @@ img#twd2{
 
 ul{
 	text-align: center;
-
 }
 
 table{
 	width: 100%;
 	text-align: center;
-
 }
 
 th{
@@ -135,10 +127,8 @@ td{
 	border: solid 2px;
 }
 
-
 footer{
 	background-color:black;	
-	margin-left:;
 }
 
 div.video{
@@ -157,7 +147,6 @@ div.pie{
 div.formulario1{
 	border-bottom: double white 4px;
 }
-
 
 div.formulario2{
 	border-bottom: double white 4px;
