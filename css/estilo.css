@@ -1,4 +1,5 @@
-body{
+body{background-image: url(../img/patron2.jpg);}header{text-align: center;}h1{color: white;font-size: 37px;}h2{color: white;font-size: 30px;}h3{color: white;font-size: 25px;}p{color: white;font-size: 18px;}nav div ul li{float: left;text-align: center;}label{color: white;}ul{text-decoration: none;}div.articulo{border-bottom: double white 3px;}div#argumento{border-top: double white 3px;}a.siguiente{float: right;border:solid 3px;padding: 3px;}a.volver{float: left;border:solid 3px;padding:3px;}a{font-size: 25px;text-decoration: none;color: white;margin-left:40px;margin-right:40px;}a:hover{color: lightblue;font-size: 26px;}table{color: white;}div.contenedor{background-color: transparent;padding: 25px;width: 60%;margin-left: auto;margin-right: auto;}div.contenedor2{background-image: url(../img/patron1.jpg);background-color: transparent;padding: 25px;width: 60%;margin-left: auto;margin-right: auto;}img{border: solid grey 2px;height: 300px;border-radius: 5%;}img#twd2{width: 50%;height: auto;float:right;border: solid grey 2px;margin: 25px;border-radius: 14%;}ul{text-align: center;}table{width: 100%;text-align: center;}th{border: solid 2px;}td{border: solid 2px;}footer{background-color:black;}div.video{text-align: center;}nav{margin-left: 20%;margin-right: 20%;}div.pie{margin-left: 9%;}div.formulario1{border-bottom: double white 4px;}div.formulario2{border-bottom: double white 4px;}div.registro{border-bottom: double white 4px;}
+/* body{
 	background-image: url(../img/patron2.jpg);
 }
 
@@ -154,4 +155,4 @@ div.formulario2{
 
 div.registro{
 	border-bottom: double white 4px;
-}
+} */
